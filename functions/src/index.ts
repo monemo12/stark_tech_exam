@@ -1,3 +1,4 @@
+import * as init from "./app/controller/init";
 import * as express from "express";
 import * as bodyParser from "body-parser";
 import api from "./routes/index";
