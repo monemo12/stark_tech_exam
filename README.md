@@ -8,6 +8,10 @@
 
 <img src="/Users/monemo12/Documents/Docker Volumes/nginx/stark_tech_exam/documents/How to use API.png" alt="How to use API" style="zoom:50%;" />
 
+#### How to upload and share a photo
+
+<img src="/Users/monemo12/Documents/Docker Volumes/nginx/stark_tech_exam/documents/How to upload and share a photo.png" alt="How to upload and share a photo" style="zoom: 50%;" />
+
 ### Database
 
 #### User
